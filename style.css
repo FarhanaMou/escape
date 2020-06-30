@@ -1,0 +1,203 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* header area start */
+
+
+/* Its for manu part */
+
+.header-part {
+    background: url(img/banner-imge.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding: 20px 0px 80px 0px;
+}
+
+.header-part:after {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background: rgb(49, 38, 63, 0.5);
+}
+
+.main-manu-brand {
+    z-index: 100;
+    position: relative;
+}
+
+.menu ul li {
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 10px;
+}
+
+.menu ul li a {
+    color: #fff !important;
+}
+
+
+/* Its header-conter style */
+
+.header-content {
+    padding-top: 120px;
+    color: #ffffff;
+    z-index: 100;
+    position: relative;
+}
+
+.header-content h3 {
+    font-size: 32px;
+    font-weight: normal;
+}
+
+.header-content h1 {
+    font-size: 80px;
+    padding-bottom: 80px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+/* Its for header btn */
+
+.coustom-btn {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 25px;
+    border: 2px solid #fff;
+    padding: 10px 60px;
+}
+
+.coustom-btn:hover {
+    color: #ffffff;
+}
+
+
+/* header area end */
+
+
+/* development part start */
+
+.dav-part {
+    padding: 100px 0px;
+}
+
+.dav-content h1 {
+    font-size: 60px;
+    padding: 0px 0px 40px 17px;
+}
+
+.dav-content p {
+    font-size: 18px;
+    padding: 0px 17px;
+    line-height: 30px;
+}
+
+.dav-content p {
+    font-size: 18px;
+    padding: 0px 17px;
+    line-height: 30px;
+}
+
+
+/* dav-img style */
+
+.dav-img img {
+    width: 81%;
+}
+
+
+/* development part end */
+
+
+/* branding-part start */
+
+.branding-part {
+    padding: 100px 0px;
+    background: #faf7f7;
+}
+
+
+/* Its brand img style */
+
+.brand-img img {
+    width: 90%;
+    padding: 40px 13px;
+}
+
+
+/* Its for brand content style */
+
+.brand-content {
+    padding: 0px 45px;
+}
+
+.brand-content h1 {
+    font-size: 60px;
+    padding-bottom: 40px;
+}
+
+.brand-content p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.brand-content p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+/* branding-part end */
+
+
+/* fetured part start */
+
+.fetured-part {
+    padding: 100px 0px;
+}
+
+.icon i {
+    width: 75px;
+    height: 75px;
+    background-color: black;
+    border-radius: 50%;
+    color: #fff;
+    text-align: center;
+    padding: 18px 0px;
+    font-size: 35px;
+}
+
+.icon-content {
+    padding: 0px 47px;
+}
+
+.icon-content h3 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.icon-content p {
+    color: #777777;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+/* fetured part end */
