@@ -362,3 +362,21 @@
                 }
                 /* Its for from end */
                 /*contect part end */
+                /* footer-part start */
+                
+                .footer-part {
+                    padding: 0px 50px;
+                    background: #7690c5;
+                }
+                
+                .footer-part hr {
+                    background-color: #ddd;
+                }
+                
+                .footer-part h3 {
+                    color: #fff;
+                    font-size: 16px;
+                    text-align: center;
+                    padding: 40px 0px;
+                }
+                /* footer-part end */
