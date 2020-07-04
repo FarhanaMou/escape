@@ -321,3 +321,44 @@
                     color: #ebebeb;
                 }
                 /* team-member part end */
+                /* contect part start */
+                
+                .contect-part {
+                    padding: 100px 0px;
+                    background: #7690c5;
+                }
+                
+                .content-left-top {
+                    padding: 0px 30px;
+                    color: #fff;
+                }
+                
+                .content-left-top h1 {
+                    font-size: 60px;
+                }
+                
+                .content-left-top p {
+                    font-size: 16px;
+                }
+                
+                .social-contect {
+                    padding: 0px 30px;
+                    color: #fff;
+                }
+                
+                .contect-icon i {
+                    width: 50px;
+                    font-size: 25px;
+                }
+                
+                .icon-text {
+                    font-size: 18px;
+                }
+                /* Its for from area */
+                
+                .from-coustom {
+                    padding: 30px 26px;
+                    color: #bbbbbb;
+                }
+                /* Its for from end */
+                /*contect part end */
